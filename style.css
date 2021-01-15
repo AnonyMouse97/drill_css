@@ -35,6 +35,7 @@ a{
 
 .anim3{
 	transition: background-color 1s, color 1s, transform 1s;
+	transition-timing-function: ease;
 }
 .anim3:hover{
 	background-color: white;
